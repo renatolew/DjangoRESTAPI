@@ -33,6 +33,8 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     # Adding the created app in order for django to recognize it.
     'myapi.apps.MyapiConfig',
+    # Adding Django Rest Framework to the installed apps list.
+    'rest_framework',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
