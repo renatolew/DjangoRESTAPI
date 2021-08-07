@@ -1,4 +1,4 @@
-#DjangoRESTAPI
+# DjangoRESTAPI
 
 Building a RESTful API with Django to better understand how an API operates and how to acess data through it. 
 
